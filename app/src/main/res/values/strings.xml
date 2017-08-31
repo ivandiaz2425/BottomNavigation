@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"BottomNavigation "</string>
+    <string name="menu1">Opcion Uno</string>
+    <string name="str1_1">Recents</string>
+    <string name="str1_2">Favorites</string>
+    <string name="str1_3">Nearvy</string>
+</resources>
