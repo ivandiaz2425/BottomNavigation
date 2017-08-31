@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="BottomNavigation">
+        <item name="android:background">@android:color/holo_green_light</item>
+
+    </style>
+
 </resources>
